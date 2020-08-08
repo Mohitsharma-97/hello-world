@@ -1,2 +1,2 @@
 # hello-world
-first respiratory
+first repository
